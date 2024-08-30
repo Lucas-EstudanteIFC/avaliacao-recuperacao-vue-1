@@ -23,5 +23,5 @@ _Importante._
 *6. No componente `MainComp`, a tag `h2` com o título do `card` de tarefas em aberto, está esperando uma variável com o nome `tarefasEmAberto`. Esta variável não está definida. Defina a propriedade computada `tarefasEmAberto` com a quantidade de tarefas que ainda não foram concluídas.*
 *7. No componente `MainComp`, no `card` de tarefas feitas, ao clicar em uma tarefa é chamada a função `reativarTarefa`, que não está definida. Implemente a função `reativarTarefa` que deve receber o `id` da tarefa a ser reativada e alterar o status `feita` da tarefa para `false`.*
 *8. No component `App.vue`, o componente `<main-comp>` está sendo renderizado, mas ele não foi importado. Importe o componente `MainComp` que está em `src/components/MainComp.vue`.*
-9. Faça o deploy da aplicação no Surge ou no Vercel.
-10. Envie o link do projeto no GitHub e o link do deploy da aplicação no SIGAA até o prazo estabelecido.
+*9. Faça o deploy da aplicação no Surge ou no Vercel.*
+*10. Envie o link do projeto no GitHub e o link do deploy da aplicação no SIGAA até o prazo estabelecido.*
